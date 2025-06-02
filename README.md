@@ -6,6 +6,7 @@ Welcome to my Testing Portfolio! I'm Siri Chandana, an aspiring Tester with hand
 I have a strong understanding of the Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC), and am skilled in identifying bugs and writing well-structured test cases. This portfolio showcases my testing work, starting with real-world applications like Flipkart.
 
 ## 🔍 Featured Project: 
+
 ### 🔹 Flipkart Search Feature Testing
 
 This project demonstrates my manual testing approach to Flipkart's search functionality.
