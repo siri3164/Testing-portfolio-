@@ -16,7 +16,23 @@ This project demonstrates my manual testing approach to Flipkart's search functi
 
 📥 [Download Test Report](Flipkart_SearchFeature_Test_Cases_Report1(1).xlsx)
 
-📄 [View Live Portfolio](https://siri3164.github.io/Testing-portfolio-/)
+---
+
+### 🔹 Flipkart Login Feature Testing
+
+In this task, I tested Flipkart’s login functionality using 8 scenarios including:
+- ✅ Valid login and email cases
+- ❌ High-severity bug found with invalid number login (TC003)
+- 🔐 Security checks (special characters, OTP validation)
+- 🧾 Excel test case report with bug tracking
+
+📥 [Download Login Test Report](Flipkart_Login_TestCase_Report.xlsx)
+
+---
+
+## 🌐 Portfolio Website
+
+🔗 [View Live Portfolio](https://siri3164.github.io/Testing-portfolio-/)
 
 ## 🛠️ Skills
 
