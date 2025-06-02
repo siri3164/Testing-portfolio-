@@ -10,10 +10,10 @@ I have a strong understanding of the Software Development Life Cycle (SDLC), Sof
 
 This project demonstrates my manual testing approach to Flipkart's search functionality.
 
-- 🔹 10 detailed test cases
-- 🔹 Bug severity classification
-- 🔹 Visual summary via pie chart
-- 🔹 Excel report download available
+-  10 detailed test cases
+-  Bug severity classification
+-  Visual summary via pie chart
+-  Excel report download available
 
 📥 [Download Test Report](Flipkart_SearchFeature_Test_Cases_Report1(1).xlsx)
 
