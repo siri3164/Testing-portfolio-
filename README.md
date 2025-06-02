@@ -32,7 +32,7 @@ In this task, I tested Flipkart’s login functionality using 8 scenarios includ
 
 ## 🌐 Portfolio Website
 
-🔗 [View Live Portfolio](https://siri3164.github.io/Testing-portfolio-/)
+  🧾 [View Live Portfolio](https://siri3164.github.io/Testing-portfolio-/)
 
 ## 🛠️ Skills
 
