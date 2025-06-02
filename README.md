@@ -15,8 +15,7 @@ This project demonstrates my manual testing approach to Flipkart's search functi
 -  Visual summary via pie chart
 -  Excel report download available
 
-📥 [Download Test Report](Flipkart_SearchFeature_Test_Cases_Report1(1).xlsx)
-
+📥 [Download Test Report](Flipkart_Search_Test_Report.xlsx)
 ---
 
 ### 🔹 Flipkart Login Feature Testing
