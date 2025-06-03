@@ -32,11 +32,10 @@ In this task, I tested Flipkart’s login functionality using 8 scenarios includ
 ---
 
 ### 🔹 Flipkart Cart Feature Testing
-- ✅ 17 test cases covering add/remove, quantity update, guest login, etc.
-- ❌ 3 failed scenarios (cart limits, out-of-stock items, multi-item delete)
-- 🐞 Includes Bug IDs, severity levels, and detailed tracking
-📥 [Download Report](Flipkart_Cart_Test_Report.xlsx)
-
+- âœ… 17 test cases covering add/remove, quantity update, guest login, etc.
+- âŒ 3 failed scenarios (cart limits, out-of-stock items, multi-item delete)
+- ðŸž Includes Bug IDs, severity levels, and detailed tracking  
+ðŸ“¥ [Download Report](Flipkart_Cart_Test_Report.xlsx)
 ---
 
 ## 🌐 Portfolio Website
