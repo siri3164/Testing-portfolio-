@@ -28,7 +28,6 @@ In this task, I tested Flipkart’s login functionality using 8 scenarios includ
 - 🧾 Excel test case report with bug tracking
 
 📥 [Download Login Test Report](Flipkart_Login_TestCase_Report.xlsx)
-(Flipkart_Login_TestCase_Report.xlsx)
 
 ---
 
